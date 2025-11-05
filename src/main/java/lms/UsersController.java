@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 
 
 @RestController
-@RequestMapping("/users")
+@RequestMapping("/back1/users")
 @CrossOrigin(origins="*")
 public class UsersController {
 
